@@ -63,7 +63,7 @@ Reported bugs can be found at [Bug Fix](https://github.com/rijo-robert-atu/Power
 When developers encounter a bug with one of the Python programs, the below steps are used to solve the issue:
 - A "Bug" issue is created for the identified bug as shown below.  
 
-![image](https://github.com/rijo-robert-atu/Python/blob/989717801b3f12f3fd5def35ea06137751ba30ce/Documentation/Bug-fix.png)
+![image](https://github.com/rijo-robert-atu/PowerShell/blob/e61d6762c9c4941ce685673396caa10fb670e999/Documentation/Bugfix%231.png)
 
 - Clone the Python repo to local machine.
 
@@ -74,7 +74,7 @@ git clone https://github.com/rijo-robert-atu/Python.git
 
 - bug-fix branch was created for the resolution.
   
-  ![image](https://github.com/rijo-robert-atu/Python/blob/84d658d452096b8607e7ba85e46044f0a2025052/Documentation/git%20branches.png)
+  ![image](https://github.com/rijo-robert-atu/PowerShell/blob/e0eb7e0a6a9c49269313a295e53139a496dd6e58/Documentation/branch%20bugfix.png)
 
 - Then resolve the issue in the Gitbash terminal. here the student was using the Visual Studio Code to execute the git commands.
 - The code is pushed to the test branch Once the issue is fixed. 
