@@ -58,7 +58,7 @@ To the main branch the commits are done using pull requests. This will prevent a
 
 ## Bug Fix Request
 
-Reported bugs can be found at [Bug Fix](https://github.com/rijo-robert-atu/Python/blob/989717801b3f12f3fd5def35ea06137751ba30ce/Documentation/Bug-fix.png)  
+Reported bugs can be found at [Bug Fix](https://github.com/rijo-robert-atu/PowerShell/blob/e61d6762c9c4941ce685673396caa10fb670e999/Documentation/Bugfix%231.png)  
 
 When developers encounter a bug with one of the Python programs, the below steps are used to solve the issue:
 - A "Bug" issue is created for the identified bug as shown below.  
