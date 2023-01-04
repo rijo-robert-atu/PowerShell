@@ -178,7 +178,7 @@ git clone https://github.com/rijo-robert-atu/PowerShell.git
 
 ## Authors
 
-The Python repository was developed as a part of Infrastructure as a Code module. created by Rijo Robert.  
+The PowerShell repository was developed as a part of Infrastructure as a Code module. created by Rijo Robert.  
 
 ## Conclusion
 
