@@ -83,13 +83,13 @@ git clone https://github.com/rijo-robert-atu/Python.git
  
 ## Feature Request
 
-Feature requests can be found at [Features](https://github.com/rijo-robert-atu/Python/blob/c1458a959f2c2a9eea0ea451f1203dcd97adae21/Documentation/Pull%20request%20for%20feature%20branch.png)
+Feature requests can be found at [Features](https://github.com/rijo-robert-atu/PowerShell/blob/696d178928278eb0aafd047107f803f09a5c8b3b/Documentation/Feature%20branch%20merge.png)
 
 To create a new feature in the Python programs, developer has to follow below steps :
 
 - A "update" issue is created as shown below.
 
-![image](https://github.com/rijo-robert-atu/Python/blob/84d658d452096b8607e7ba85e46044f0a2025052/Documentation/feature%20branch.png)
+![image](https://github.com/rijo-robert-atu/PowerShell/blob/696d178928278eb0aafd047107f803f09a5c8b3b/Documentation/Feature%20branch%20merge.png)
 
 - Clone the Python repo to the local machine.
 ```
@@ -98,7 +98,7 @@ git clone https://github.com/rijo-robert-atu/Python.git
 
 - A new branch is created from "Test" branch, named "Feature_#<issue number>" as shown below.  
 
-  ![image](https://github.com/rijo-robert-atu/Python/blob/84d658d452096b8607e7ba85e46044f0a2025052/Documentation/Pull%20request%20for%20feature%20branch.png)
+  ![image](https://github.com/rijo-robert-atu/PowerShell/blob/161b1ce2fa2934b27a0c0dd29f0b3886c8c46ec5/Documentation/Feature%20branch.png)
   
 - Developer will work on the new feature. Then commits the changes to the feature_#1. Commit the changes to the Feature_#1.
 - Now, checkout to "Test" branch and merge the newly created feature branch. Delete the feature branch.
@@ -111,4 +111,4 @@ The Python repository was developed as a part of Infrastructure as a Code module
 
 ## Conclusion
 
-All the scripts in this repository was tested. The basic and adavanced concepts of python programming has been pictured in this Repository. The person who will be learning the concept of python from this repository, should be able to develop the python scripts all by himself.
+All the scripts in this repository was tested. The basic and adavanced concepts of PowerShell programming has been pictured in this Repository. The person who will be learning the concept of PowerShell from this repository, should be able to develop the PowerShell scripts all by himself.
