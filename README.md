@@ -1,4 +1,4 @@
-# DHCP Log Checker
+# PowerShell Programming
 
 ### Table of Contents
 **[Description](#description)**<br>
